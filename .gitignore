@@ -37,3 +37,5 @@ nosetests.xml
 # Komodo
 .komodotools/
 *.komodoproject
+
+## link for Julia version of projects at github https://github.com/astrieanna/Projects
